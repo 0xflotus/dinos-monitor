@@ -12,7 +12,5 @@ status-website:
   name: Dinos
   introTitle: An experimental DNS Client
   introMessage: Welcome
-    - title: Status
-      href: /dinos-monitor
     - title: GitHub
       href: https://github.com/0xflotus/dinos-monitor
