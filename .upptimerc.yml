@@ -1,6 +1,6 @@
 # Change these first
 owner: 0xflotus # Your GitHub username
-repo: dinos # Your GitHub repository name
+repo: dinos-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
@@ -10,17 +10,11 @@ sites:
     url: https://de.wikipedia.org
 
 status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dinos
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  introTitle: An experimental DNS Client
+  introMessage: Welcome
     - title: Status
       href: /dinos-monitor
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/0xflotus/dinos-monitor
