@@ -8,6 +8,7 @@ sites:
     url: https://dinos.js.org
 
 status-website:
+  baseUrl: /dinos-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dinos
   introTitle: An experimental DNS Client
