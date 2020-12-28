@@ -6,8 +6,6 @@ repo: dinos-monitor # Your GitHub repository name
 sites:
   - name: Dinos
     url: https://dinos.js.org
-  - name: Wikipedia
-    url: https://de.wikipedia.org
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
