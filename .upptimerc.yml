@@ -4,7 +4,7 @@ repo: dinos-monitor # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Dinos
+  - name: Dinos Website
     url: https://dinos.js.org
 
 assignees:
