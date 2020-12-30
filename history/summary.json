@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 91,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 68,
+    "timeDay": 83,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Down",
-    "url": "https://thissiteisdown.org/",
-    "icon": "https://favicons.githubusercontent.com/thissiteisdown.org",
-    "slug": "down",
-    "status": "down",
-    "uptime": "8.10%",
-    "uptimeDay": "8.10%",
-    "uptimeWeek": "8.10%",
-    "uptimeMonth": "8.10%",
-    "uptimeYear": "8.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-30": 0
-    }
   }
 ]
