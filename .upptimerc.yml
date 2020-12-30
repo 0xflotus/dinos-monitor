@@ -6,6 +6,8 @@ repo: dinos-monitor # Your GitHub repository name
 sites:
   - name: Dinos
     url: https://dinos.js.org
+  - name: Down
+    url: https://thissiteisdown.org/
 
 assignees:
   - 0xflotus
