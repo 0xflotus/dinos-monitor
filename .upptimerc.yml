@@ -7,6 +7,9 @@ sites:
   - name: Dinos
     url: https://dinos.js.org
 
+assignees:
+  - 0xflotus
+
 status-website:
   baseUrl: /dinos-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
