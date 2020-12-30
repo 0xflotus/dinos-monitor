@@ -1,20 +1,20 @@
 [
   {
-    "name": "Dinos",
+    "name": "Dinos Website",
     "url": "https://dinos.js.org",
     "icon": "https://favicons.githubusercontent.com/dinos.js.org",
-    "slug": "dinos",
+    "slug": "dinos-website",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 83,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 41,
+    "timeDay": 41,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
     "dailyMinutesDown": {}
   }
 ]
