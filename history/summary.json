@@ -4,17 +4,19 @@
     "url": "https://dinos.js.org",
     "icon": "https://favicons.githubusercontent.com/dinos.js.org",
     "slug": "dinos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 86,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
-    "dailyMinutesDown": {}
+    "time": 93,
+    "timeDay": 111,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 93,
+    "dailyMinutesDown": {
+      "2021-01-03": 0
+    }
   }
 ]
