@@ -15,4 +15,4 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dinos
   introTitle: An experimental DNS Client
-  introMessage: Welcome
+  introMessage: This is the status site for <a href="dinos.js.org">dinos.js.org</a>
