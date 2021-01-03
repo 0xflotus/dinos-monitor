@@ -11,7 +11,7 @@ assignees:
   - 0xflotus
 
 status-website:
-  baseUrl: /dinos-monitor
+  baseUrl: https://0xflotus.github.io/dinos-monitor/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dinos
   introTitle: An experimental DNS Client
