@@ -18,10 +18,10 @@ status-website:
   introMessage: This is the status site for <a href="https://dinos.js.org">dinos.js.org</a>
 
 workflowSchedule:
-  graphs: "* * * * *"
-  responseTime: "* * * * *"
-  staticSite: "* * * * *"
-  summary: "* * * * *"
-  updateTemplate: "* * * * *"
-  updates: "* * * * *"
-  uptime: "*/2 * * * *"
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
