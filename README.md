@@ -1,4 +1,4 @@
-# [📈 Live Status](https://0xflotus.github.io/dinos): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://0xflotus.github.io/dinos-monitor/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [0xflotus](https://0xflotus.github.io/dinos), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -20,7 +20,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://0xflotus.github.io/dinos)
+[**Visit our status website →**](https://0xflotus.github.io/dinos-monitor/)
 
 ## 📄 License
 
