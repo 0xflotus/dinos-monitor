@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 136,
-    "timeDay": 202,
-    "timeWeek": 141,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 203,
+    "timeWeek": 140,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2021-01-03": 2
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/0xflotus.github.io",
     "slug": "dinos-monitoring-itself",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "98.18%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 117,
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 118,
     "timeDay": 123,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2021-01-12": 26
     }
