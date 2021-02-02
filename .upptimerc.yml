@@ -8,10 +8,6 @@ sites:
     url: https://dinos.js.org
   - name: Dinos Monitoring itself
     url: https://0xflotus.github.io/dinos-monitor/
-  - name: personal Github Page
-    url: https://0xflotus.github.io
-  - name: personal Github Page (Mirror)
-    url: https://0xflotus.is-a.dev
 
 assignees:
   - 0xflotus
