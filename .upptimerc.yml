@@ -19,11 +19,11 @@ status-website:
   introTitle: An experimental DNS Client
   introMessage: This is the status site for [dinos.js.org](https://dinos.js.org)<br />‼️⚠️ THIS PROJECT IS CURRENTLY NOT MAINTAINED!
 
-# workflowSchedule:
-#  graphs: "0 * * * *"
-#  responseTime: "0 * * * *"
-#  staticSite: "*/5 * * * *"
-#  summary: "0 * * * *"
-#  updateTemplate: "0 0 * * *"
-#  updates: "*/5 * * * *"
-#  uptime: "*/5 * * * *"
+workflowSchedule:
+  graphs: "0 * * * *"
+  responseTime: "0 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "0 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
