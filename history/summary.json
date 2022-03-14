@@ -4,7 +4,7 @@
     "url": "https://dinos.js.org",
     "icon": "https://favicons.githubusercontent.com/dinos.js.org",
     "slug": "dinos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 163,
     "timeYear": 185,
     "dailyMinutesDown": {
+      "2022-03-14": 0,
       "2021-06-08": 50
     }
   },
@@ -31,8 +32,8 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.66%",
     "time": 215,
-    "timeDay": 214,
-    "timeWeek": 220,
+    "timeDay": 213,
+    "timeWeek": 221,
     "timeMonth": 216,
     "timeYear": 215,
     "dailyMinutesDown": {
