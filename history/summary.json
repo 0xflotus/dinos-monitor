@@ -6,17 +6,16 @@
     "slug": "dinos-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 205,
     "timeWeek": 206,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2022-07-01": 11,
       "2022-06-21": 27,
       "2022-03-14": 24
     }
