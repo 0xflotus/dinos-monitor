@@ -2,7 +2,7 @@
   {
     "name": "Dinos Website",
     "url": "https://dinos.js.org",
-    "icon": "https://favicons.githubusercontent.com/dinos.js.org",
+    "icon": "https://icons.duckduckgo.com/ip3/dinos.js.org.ico",
     "slug": "dinos-website",
     "status": "up",
     "uptime": "99.99%",
@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 189,
+    "timeDay": 196,
     "timeWeek": 194,
     "timeMonth": 199,
     "timeYear": 187,
@@ -23,7 +23,7 @@
   {
     "name": "Dinos Monitoring itself",
     "url": "https://0xflotus.github.io/dinos-monitor/",
-    "icon": "https://favicons.githubusercontent.com/0xflotus.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "dinos-monitoring-itself",
     "status": "up",
     "uptime": "99.79%",
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 217,
-    "timeDay": 224,
-    "timeWeek": 228,
+    "timeDay": 215,
+    "timeWeek": 227,
     "timeMonth": 207,
     "timeYear": 217,
     "dailyMinutesDown": {
