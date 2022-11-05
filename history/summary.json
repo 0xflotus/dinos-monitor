@@ -13,7 +13,7 @@
     "time": 190,
     "timeDay": 195,
     "timeWeek": 210,
-    "timeMonth": 206,
+    "timeMonth": 205,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2022-06-21": 27,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 221,
-    "timeDay": 391,
-    "timeWeek": 331,
-    "timeMonth": 257,
+    "timeDay": 532,
+    "timeWeek": 352,
+    "timeMonth": 262,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2022-05-11": 40,
