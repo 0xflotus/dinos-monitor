@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 180,
-    "timeDay": 139,
+    "timeDay": 136,
     "timeWeek": 149,
     "timeMonth": 156,
     "timeYear": 179,
-    "dailyMinutesDown": {
-      "2022-06-21": 27
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dinos Monitoring itself",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 357,
-    "timeWeek": 248,
-    "timeMonth": 217,
+    "timeDay": 378,
+    "timeWeek": 251,
+    "timeMonth": 218,
     "timeYear": 221,
     "dailyMinutesDown": {}
   }
