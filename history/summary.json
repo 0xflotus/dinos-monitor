@@ -22,19 +22,19 @@
     "url": "https://0xflotus.github.io/dinos-monitor/",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "dinos-monitoring-itself",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 187,
+    "timeDay": 181,
     "timeWeek": 197,
     "timeMonth": 205,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2023-07-26": 1
+      "2023-07-26": 6
     }
   }
 ]
