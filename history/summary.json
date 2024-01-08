@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 158,
+    "timeDay": 152,
     "timeWeek": 172,
     "timeMonth": 165,
     "timeYear": 156,
@@ -24,17 +24,17 @@
     "slug": "dinos-monitoring-itself",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "13.44%",
-    "uptimeWeek": "87.63%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "99.76%",
+    "uptimeDay": "9.41%",
+    "uptimeWeek": "87.06%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "99.75%",
     "time": 206,
     "timeDay": 241,
     "timeWeek": 199,
     "timeMonth": 183,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-01-08": 490,
+      "2024-01-08": 548,
       "2024-01-07": 757
     }
   }
