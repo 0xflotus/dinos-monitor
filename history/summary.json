@@ -6,17 +6,17 @@
     "slug": "dinos-website",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.99%",
     "time": 155,
-    "timeDay": 165,
-    "timeWeek": 162,
+    "timeDay": 159,
+    "timeWeek": 160,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-03-14": 13
+      "2024-03-14": 73
     }
   },
   {
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 201,
-    "timeDay": 227,
-    "timeWeek": 258,
+    "timeDay": 222,
+    "timeWeek": 257,
     "timeMonth": 203,
     "timeYear": 201,
     "dailyMinutesDown": {
