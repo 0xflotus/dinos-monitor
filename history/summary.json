@@ -4,18 +4,20 @@
     "url": "https://dinos.js.org",
     "icon": "https://icons.duckduckgo.com/ip3/dinos.js.org.ico",
     "slug": "dinos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 166,
+    "timeDay": 165,
     "timeWeek": 162,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 0
+    }
   },
   {
     "name": "Dinos Monitoring itself",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 201,
-    "timeDay": 222,
-    "timeWeek": 257,
+    "timeDay": 227,
+    "timeWeek": 258,
     "timeMonth": 203,
     "timeYear": 201,
     "dailyMinutesDown": {
