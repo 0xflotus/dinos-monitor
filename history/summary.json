@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dinos.js.org.ico",
     "slug": "dinos-website",
     "status": "down",
-    "uptime": "93.77%",
+    "uptime": "93.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 141,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2024-05-31": 144,
+      "2024-05-31": 188,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
