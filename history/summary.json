@@ -16,7 +16,7 @@
     "timeMonth": 165,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-10-23": 872,
+      "2024-10-23": 883,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -247,10 +247,10 @@
     "url": "https://0xflotus.github.io/dinos-monitor/",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "dinos-monitoring-itself",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "97.62%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "97.61%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.64%",
     "time": 214,
@@ -259,7 +259,7 @@
     "timeMonth": 385,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-10-23": 42,
+      "2024-10-23": 43,
       "2024-10-17": 198,
       "2024-01-08": 890,
       "2024-01-07": 757
