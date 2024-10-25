@@ -16,7 +16,7 @@
     "timeMonth": 163,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-10-25": 37,
+      "2024-10-25": 40,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
@@ -251,8 +251,8 @@
     "slug": "dinos-monitoring-itself",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "87.59%",
-    "uptimeWeek": "97.66%",
+    "uptimeDay": "87.47%",
+    "uptimeWeek": "97.65%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "99.60%",
     "time": 231,
@@ -261,7 +261,7 @@
     "timeMonth": 587,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-10-25": 1,
+      "2024-10-25": 3,
       "2024-10-24": 179,
       "2024-10-23": 57,
       "2024-10-17": 198,
